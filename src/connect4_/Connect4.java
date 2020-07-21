@@ -8,6 +8,7 @@ package connect4_;
 /**
  *
  * @author kodera
+ * @author mankoman
  */
 public class Connect4 {
     
